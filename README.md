@@ -39,6 +39,9 @@ La documentación de la API está disponible a través de Swagger UI en la ruta 
 - JWT para autenticación
 - Swagger para documentación de la API
 
+## Peticiones
+- Realiza las peticiones correspondientes por medio de postman usando la ruta : http://localhost:3000/api/
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
